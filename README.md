@@ -1,7 +1,7 @@
 # MCData
 A discord bot designed to retrieve data from Minecraft players using API's such as Mojang API, Crafatar, and [this one whos name I dont know](https://api.ashcon.app/mojang/)
 
-tl;dr
+tl;dr \
 Think of it as a cheaper NameMC as a discord bot!
 
 ## Commands
